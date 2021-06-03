@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Personalize
+
+react_clinet/node_modules/
+react_clinet/jspm_packages/
+
